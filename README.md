@@ -1,9 +1,6 @@
 Celeste is a general-purpose stable diffusion illustrations model. She seems to perform well with a smaller amount of prompts.
 
-the .ckpt file is solely served on huggingface and civitai: 
-
-https://huggingface.co/skylersterling/Celeste/tree/main
-https://civitai.com/models/4803/celeste
+the .ckpt file is solely served on [huggingface](https://huggingface.co/skylersterling/Celeste/tree/main) and [civitai](https://civitai.com/models/4803/celeste) 
 
 What sets Celeste apart from other AI art models is her ability to excel at both photorealistic and more abstract art-styles.
 

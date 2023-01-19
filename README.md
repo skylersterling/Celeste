@@ -1,16 +1,3 @@
----
-license: creativeml-openrail-m
-tags:
-- art
-- stable-diffusion
-- Automatic1111
-- .ckpt
-- stable-diffusion-diffusers
-- text-to-image
-- diffusers
-inference: false
----
-
 Celeste is a general-purpose stable diffusion illustrations model. She seems to perform well with a smaller amount of prompts.
 
 What sets Celeste apart from other AI art models is her ability to excel at both photorealistic and more abstract art-styles.
